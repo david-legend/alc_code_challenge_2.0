@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin_standard">16dp</dimen>
+    <dimen name="text_margin_large">24dp</dimen>
+    <dimen name="title_large">24sp</dimen>
+    <dimen name="text_price">18sp</dimen>
+
+    <!--general spacing-->
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="margin_left">100dp</dimen>
+</resources>
